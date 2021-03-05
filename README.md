@@ -1,3 +1,3 @@
-# ExerciciosC
-## Respositórios para Exercicíos em C 
+# Exercicios C
+### Respositórios para Exercicíos em C 
 ---
